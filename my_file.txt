@@ -1,0 +1,6 @@
+Line 1: This is a sample text.
+Line 2: 12345
+Line 3: Python is awesome!
+Line 4: Appended line 1.
+Line 5: 54321
+Line 6: Python is versatile!
